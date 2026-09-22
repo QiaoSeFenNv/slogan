@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "Bubble Touch",
+        "navigationStyle": "custom",
+        "backgroundColor": "#FFE4E1"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Bubble Touch",
+    "navigationBarBackgroundColor": "#FFE4E1",
+    "backgroundColor": "#FFE4E1"
+  }
+}

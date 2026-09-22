@@ -1,0 +1,7 @@
+{"file": ".trellis/spec/frontend/quality-guidelines.md", "reason": "代码质量检查标准（可读性、可维护性、性能）"}
+{"file": ".trellis/spec/frontend/directory-structure.md", "reason": "检查文件结构是否符合 uni-app 标准"}
+{"file": ".trellis/spec/frontend/component-guidelines.md", "reason": "检查 Vue 组件写法是否规范"}
+{"file": ".trellis/tasks/09-22-bubble-touch-mvp/prd.md", "reason": "对照 Acceptance Criteria 检查实现是否满足"}
+{"file": ".trellis/tasks/09-22-bubble-touch-mvp/design.md", "reason": "对照架构设计检查实现是否符合"}
+{"file": ".trellis/tasks/09-22-bubble-touch-mvp/implement.md", "reason": "对照执行计划检查是否走完全部步骤"}
+{"file": "Bubble-Touch-产品方案.md", "reason": "对照产品方案检查物理参数范围（弹性 0.3-0.5、阻尼 0.05-0.15、塑性 0.2-0.4）"}

@@ -1,0 +1,24 @@
+{
+  "name": "BubbleTouch",
+  "appid": "",
+  "description": "起泡胶触感解压小程序",
+  "versionName": "0.1.0",
+  "versionCode": "1",
+  "transformPx": false,
+  "h5": {
+    "title": "Bubble Touch",
+    "router": {
+      "mode": "hash"
+    },
+    "devServer": {
+      "port": 8080,
+      "disableHostCheck": true
+    },
+    "optimization": {
+      "treeShaking": {
+        "enable": true
+      }
+    }
+  },
+  "vueVersion": "3"
+}

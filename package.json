@@ -1,0 +1,20 @@
+{
+  "name": "bubble-touch",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bubble Touch MVP - uni-app Vue 3 H5 demo for slow-rebound slime feel",
+  "scripts": {
+    "dev:h5": "uni",
+    "build:h5": "uni build",
+    "test:physics": "node test-physics.js"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "^3.0.0-3081220230817001",
+    "@dcloudio/uni-h5": "^3.0.0-3081220230817001",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@dcloudio/vite-plugin-uni": "^3.0.0-3081220230817001",
+    "vite": "^5.2.8"
+  }
+}

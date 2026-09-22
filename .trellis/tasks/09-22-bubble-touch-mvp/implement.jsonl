@@ -1,0 +1,10 @@
+{"file": ".trellis/spec/frontend/directory-structure.md", "reason": "uni-app 项目结构标准（pages.json、src/pages/、static/、utils/ 分层）"}
+{"file": ".trellis/spec/frontend/component-guidelines.md", "reason": "Vue 3 单文件组件写法（index.vue 内 template/script/style 分离）"}
+{"file": ".trellis/spec/frontend/state-management.md", "reason": "MVP 不引入 Pinia；用 Vue 3 ref/reactive 局部状态（PhysicsEngine、Renderer 持有）"}
+{"file": ".trellis/spec/frontend/quality-guidelines.md", "reason": "代码规范、ESLint 基础规则"}
+{"file": ".trellis/spec/frontend/hook-guidelines.md", "reason": "uni-app 生命周期钩子（onReady / onLoad / onUnload）使用规范"}
+{"file": ".trellis/spec/frontend/type-safety.md", "reason": "TypeScript 类型标注（物理引擎类、Renderer 类的方法签名）"}
+{"file": ".trellis/tasks/09-22-bubble-touch-mvp/prd.md", "reason": "需求与验收标准"}
+{"file": ".trellis/tasks/09-22-bubble-touch-mvp/design.md", "reason": "技术设计（架构、数据模型、渲染流程）"}
+{"file": ".trellis/tasks/09-22-bubble-touch-mvp/implement.md", "reason": "执行计划（步骤清单、验证矩阵、时间预估）"}
+{"file": "Bubble-Touch-产品方案.md", "reason": "产品方案文档（§五.2 物理引擎算法、§四 配色方案、§三.2 触感参数）"}

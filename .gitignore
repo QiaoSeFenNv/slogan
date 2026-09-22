@@ -1,0 +1,15 @@
+# Dependencies and build artifacts
+node_modules/
+unpackage/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
